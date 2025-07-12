@@ -16,3 +16,5 @@ This project investigates binary neutron star systems with the aim of understand
 - The connection between compact object mergers and observable astrophysical signals.
 
 **By modeling orbital dynamics and applying theoretical physics, we aim to build a foundation for simulating gravitational waveforms from these extreme environments.**
+
+_________________________________________________________________________________________________________________________
