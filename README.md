@@ -5,4 +5,14 @@
 
   _____________________________________________________________________________________________________________________
 
-Exploring compact stars (focusing on neutron stars) as a Laboratory for Extreme Matter and Fundamental Physics
+# Overview
+
+This project investigates binary neutron star systems with the aim of understanding:
+
+The behavior of extremely dense matter under strong gravity,
+
+How such systems evolve and emit gravitational waves,
+
+The connection between compact object mergers and observable astrophysical signals.
+
+By modeling orbital dynamics and applying theoretical physics, we aim to build a foundation for simulating gravitational waveforms from these extreme environments.
